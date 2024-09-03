@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "960551339508",
+    "project_id": "vacc-track-app",
+    "storage_bucket": "vacc-track-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:960551339508:android:637b148ffe24406ba2e5a1",
+        "android_client_info": {
+          "package_name": "com.example.vacc_tracker_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "960551339508-rejk4djdhtcsgkrd4e9jcf713n8faf3c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbkrh_WMO78tUHLXLm14F9jJhiKuFSJlg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "960551339508-rejk4djdhtcsgkrd4e9jcf713n8faf3c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
